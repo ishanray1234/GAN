@@ -56,7 +56,7 @@ writer_fake = SummaryWriter(f"logs/Vanilla_GAN/fake")
 writer_real = SummaryWriter(f"logs/Vanilla_GAN/real")
 step = 0
 
-for epoch in range(num_epochs):
+for epoch in range(num_epochs): 
     for idx, (real, _) in enumerate(train_loader):
         real = real.view(-1, image_dim).to(device)
         batch_size = real.shape[0]

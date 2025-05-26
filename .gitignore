@@ -1,2 +1,5 @@
 GAN/dataset
 GAN/logs
+DCGAN/dataset
+DCGAN/logs
+DCGAN/__pycache__
