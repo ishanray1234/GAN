@@ -7,3 +7,5 @@ DCGAN/__pycache__
 pix2pix/data/maps
 pix2pix/__pycache__
 
+pix2pix/disc.pth.tar
+pix2pix/gen.pth.tar
