@@ -4,3 +4,6 @@ DCGAN/dataset
 DCGAN/logs
 DCGAN/__pycache__
 .DS_Store
+pix2pix/data/maps
+pix2pix/__pycache__
+
