@@ -3,3 +3,4 @@ GAN/logs
 DCGAN/dataset
 DCGAN/logs
 DCGAN/__pycache__
+.DS_Store
