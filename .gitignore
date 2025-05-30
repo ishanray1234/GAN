@@ -12,3 +12,5 @@ pix2pix/gen.pth.tar
 CycleGAN/data
 CycleGAN/__pycache__
 CycleGAN/saved_images
+
+ProGAN/celeba_hq
